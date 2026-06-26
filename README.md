@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Afahmisan, 19 yo
-- 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning C++ amd Discrete Mathematics
-
+Fried Rice is my favorite food. Hi I'am Fahmi, an Information Technology Student at Sepuluh Nopember Institute. I open to all the opportonities. Currecntly I am learning Web Development, especially HTML, CSS, React, and Node.js. Thank you, you can contact me on my Instagram : @fahmi_jaj2922929. Maturnuwun...
